@@ -1,0 +1,9 @@
+function App() {
+  return (
+    <div className="text-center text-xl mt-10">
+      Hello, React + Vite + Tailwind!
+    </div>
+  );
+}
+
+export default App;
